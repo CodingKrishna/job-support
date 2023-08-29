@@ -1,9 +1,9 @@
 # UT VS IT
 | Unit Test  | Integration Test |
 | ------------- | ------------- |
-| independent classes or functions are tested to check function in the code. | Integration testing is to find errors/success in interaction between two logical/functional units  |
+| independent classes or functions are tested to check functionality in the application code. | Integration testing is to test functionality in interaction between multiple logical/functional units |
 | There is no layer testing  | We need to perform real operations to check all the layers are working well in the flow. Here, the layers are controller, service, repository…  |
-| We need to perform mocking operations. Not real ones!  | We need not to dependent on mocks We can perform operations on real software. |
+| We need to perform mocking operations. Not real ones!  | We need not to dependent on mocks We can perform operations on real software with mocked endpoints. |
 | NO E2E(end to end testing) | We can perform e2e testing |
 
 
