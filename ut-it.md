@@ -7,7 +7,7 @@
 | NO E2E(end to end testing) | We can perform e2e testing |
 
 
-Recommendation: We can use integration testing for api's e2e testing and UT for specific logic's in the application.
+Recommendation: We can use integration testing for api's(get all, get by id, save, update) e2e testing and UT for specific logic's (some business logic) in the application which is not covered as part of integration e2e tests.  
 https://www.youtube.com/watch?v=C61C5FE-6hs  
 
 
