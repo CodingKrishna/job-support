@@ -8,6 +8,7 @@
 
 
 Recommendation: We can use integration testing for api's e2e testing and UT for specific logic's in the application.
+https://www.youtube.com/watch?v=C61C5FE-6hs  
 
 
 https://veeevek.medium.com/springboot-separate-unit-integration-test-336abbc38ef4#:~:text=UT%20%3D%20Unit%20Tests%20IT%20%3D%20Integration%20Tests.&text=The%20above%20link%20mainly%20focuses,and%20maven%2Dfailsafe%2Dplugin.  
