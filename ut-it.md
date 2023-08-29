@@ -1,4 +1,4 @@
-UT VS IT
+# UT VS IT
 | Unit Test  | Integration Test |
 | ------------- | ------------- |
 | independent classes or functions are tested to check function in the code. | Integration testing is to find errors/success in interaction between two logical/functional units  |
